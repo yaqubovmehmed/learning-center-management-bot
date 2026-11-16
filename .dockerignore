@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.git/
+.gitignore
+.venv/
+venv/
+.env
+.secret_pepper
+data/
+logs/
+tests/
+README.md
+run.bat
+run.sh
+docker-compose.yml
+Dockerfile
