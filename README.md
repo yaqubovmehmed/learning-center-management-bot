@@ -43,7 +43,7 @@ sabab xabari yuborish imkoniyati bor.
 **1. Kodni olish**
 
 ```bash
-git clone https://github.com/yaqubovmexmedjon/learning-center-management-bot.git
+git clone https://github.com/yaqubovmehmed/learning-center-management-bot.git
 cd learning-center-management-bot
 ```
 
